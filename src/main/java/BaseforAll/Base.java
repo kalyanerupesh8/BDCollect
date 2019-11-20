@@ -89,7 +89,7 @@ public class Base extends Readproprties {
 	public void Verify_the_login() throws IOException {
 
 		SelectBrowser();
-
+		SelectBrowser();
                 
 
 		driver.get(Logprop.getProperty("URL"));
