@@ -16,6 +16,8 @@ public class Readproprties {
 		FileInputStream fis = new FileInputStream("/home/rupesh/Rupesh-workspace/BDCollect/src/main/java/BaseforAll/BDCollect.properties");
 		
 		Logprop.load(fis);
+
+                Logprop.load(fis);
 	
 }
 
