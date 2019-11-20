@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="BDCollect_TestScenarios.Verify_Home_Page_Elements">
+        <methods>
+          <include name="Check_all_elements_which_are_required_on_home_page"/>
+        </methods>
+      </class> <!-- BDCollect_TestScenarios.Verify_Home_Page_Elements -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

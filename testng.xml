@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="BDCollect_TestScenarios.Verify_the_Login_page_Element"/>
+      <class name="BDCollect_TestScenarios.Verify_Home_Page_Elements"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

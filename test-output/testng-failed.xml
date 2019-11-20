@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="BDCollect_TestScenarios.Verify_Home_Page_Elements">
+        <methods>
+          <include name="Verify_Notification_process"/>
+          <include name="Verify_the_login"/>
+        </methods>
+      </class> <!-- BDCollect_TestScenarios.Verify_Home_Page_Elements -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
