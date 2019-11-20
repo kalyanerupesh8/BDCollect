@@ -90,7 +90,7 @@ public class Base extends Readproprties {
 
 		SelectBrowser();
 
-                SelectBrowser();
+                
 
 		driver.get(Logprop.getProperty("URL"));
 

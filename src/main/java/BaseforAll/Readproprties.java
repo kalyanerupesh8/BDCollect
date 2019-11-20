@@ -17,7 +17,7 @@ public class Readproprties {
 		
 		Logprop.load(fis);
 
-                Logprop.load(fis);
+                
 	
 }
 
